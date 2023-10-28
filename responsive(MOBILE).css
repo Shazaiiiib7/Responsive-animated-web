@@ -1,0 +1,64 @@
+nav .left-menu-bar{
+    display: none;
+}
+ nav .right-menu-bar{
+    padding-right: 5vw;
+}
+ nav .right-menu-bar i{
+    font-size: 4vw;
+}
+.page{
+    height: fit-content;
+}
+.page-1 .text-area{
+    margin-top: 50vw;
+}
+.page-1 .text-area .text h1{
+    letter-spacing: -3px;
+    font-weight: lighter;
+    line-height: 0.9;
+}
+.page-1 .video-container{
+    height: 30vh;
+}
+/* page 2 starts from here  */
+.page-2 .container{
+    display: flex;
+    flex-direction: column;
+    gap: 3vw;
+}
+.page-2 .container .box{
+    width : 100%;
+}
+
+.page .heading h3{
+    font-size: 3vw;
+}
+
+/* page starts fro here */
+.page-3{
+    display: flex ;
+    flex-direction: column;
+    text-align: center;
+    gap: 1vw ;
+}
+.page-3 .text{
+    width: 100%;
+    height: fit-content;
+    
+}
+.page-3 .text-1 h3{
+    font-size: 8vw;
+}
+.page-3 .text-2 p{
+    text-align: center;
+    font-size: 4.5vw;
+}
+/* page 4  */
+
+.page-4 .box{
+    width: 100%;
+}
+.page-4 .box p{
+    font-size: 4vw;
+}
